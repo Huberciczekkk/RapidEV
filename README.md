@@ -1,1 +1,4 @@
 # RapidEV
+Projekt polega na stworzeniu aplikacji mobilnej wspierającej kierowców samochodów elektrycznych w szybkim i wygodnym znajdowaniu dostępnych ładowarek. Rozwiązanie odpowiada na problem braku jednego, wiarygodnego narzędzia, które dostarczałoby aktualne informacje o dostępności punktów ładowania, szczególnie w nagłych sytuacjach.
+Aplikacja będzie oferować intuicyjną mapę z funkcją „tu i teraz”, umożliwiającą natychmiastowe wyszukiwanie najbliższych ładowarek oraz filtrowanie wyników według potrzeb użytkownika. Kluczową wartością projektu jest oszczędność czasu, redukcja stresu związanego z planowaniem ładowania oraz zwiększenie komfortu podróżowania pojazdem elektrycznym.
+Główną grupą docelową są właściciele samochodów elektrycznych, zwłaszcza osoby często podróżujące oraz mniej doświadczeni użytkownicy EV. Projekt zakłada integrację z istniejącymi systemami oraz możliwość dalszego rozwoju, np. o funkcje inteligentnego planowania tras.
